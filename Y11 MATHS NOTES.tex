@@ -1,0 +1,126 @@
+\documentclass{report}
+
+\input{preamble}
+\input{macros}
+\input{letterfonts}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyfoot[RE,LO]{\copyright Jackson 2022}
+\graphicspath{ {images/} }
+\title{\Huge{Maths}\\Year 11 Notes}
+\author{\huge{Jackson Love}}
+\date{2022}
+\begin{document}
+
+\maketitle
+\newpage% or \cleardoublepage
+% \pdfbookmark[<level>]{<title>}{<dest>}
+\pdfbookmark[section]{\contentsname}{toc}
+\tableofcontents
+\pagebreak
+\newpage
+\section{Algebraic Techniques}
+\subsection{Simplifying Algebraic expressions}
+\thm{Simplifying Algebraic expressions}{When you add \& subtract in algebra you can only combine like terms\newline Questions in Fitzgeralds 1.1}
+\qs{}{$$5x + 2y-3 -(x-7y+9)$$}
+$$= 5x + 2y -3 -x + 7y -9$$
+$$= 4x + 9y -12$$
+\qs{}{$$3x(x+2) -4(x-1)$$}
+$$=3x^{2}+6x-4x+5$$
+$$=3x^{2}-2x + 5$$
+
+\subsection{Substitution in Formulae}
+\thm{Substituition in Formulae}{Substituition occurs when you substitute values into an algebraic equation and/or rearrange the equations to make a variable the subject \newline More Questions in 1.2 Fitzgeralds textbook}
+\qs{}{\begin{center} If $S = \frac{a(r^{3}-1)}{r-1}$ find S when $a = 5$, $r = 3$\end{center}}
+$$= \frac{5(3^{3}-1)}{3-1}$$
+$$= \frac{5 \times 26}{2}$$
+$$= 5 \times 13$$
+$$=65$$
+\qs{}{\begin{center} If $A = P(1+\frac{r}{100})^{n}$, find A when $P = 1000$, $r = 10$, $n = 2$\end{center}}
+$$= 1000(1+ \frac{10}{100})^{2}$$
+$$= 1000 \times 1.21$$
+$$= 1210$$
+\subsection{Basic Polynomials}
+\thm{Basic Polynomials}{There are different types of polynomials include monomial(one term), binomial(two terms) and 
+trinomial(three terms)\newline 
+Rules for expanding polynomials:\newline
+Expanding Perfect/Difference squares ($(y+4)^{2}$),  square first and last terms and multiply the first and last terms together. It should for $a^2+2ab +b^{2}$ unless there is a negative between the two expressions in hich case $-2ab$
+}
+\qs{}{$$(2y + 5)^{2}$$}
+$$a^{2}+2ab+b^{2}$$
+$$= 2y^{2}+25+20y$$
+\qs{}{$$(x+2)(x^2-5x+6)$$}
+$$=-x^{3}-5x^{2}+6x+2x^{2}-10x+12$$
+$$= x^{3}-3x^{2}$$
+$$= x^{3}-3x^{2}-4x+12$$
+\subsection{Fatorising The Sum/Difference of Two Cubes }
+\thm{Fatorising The Sum/Difference of Two Cubes}{When factoring Two cubes there are two rules to remember\newline
+Rule 1: $a^{3}+b^{3} = (a+b)(a^{2}-ab+b^{2})$ \newline
+Rule 2: $a^{3}-b^{3} = (a-b)(a^{2}+ab+b^{2})$
+\newline
+To remember the sings used in the factorisation an acronym is SOAP(SAME, OPPOSITE, ALWAY, POSITIVE)
+}
+\qs{}{$$a^{3}b - ab^{3}$$}
+$$= ab(a-b)(a+b)$$
+\qs{}{$$x^{3}-x^{2}y-9x+9y$$}
+$$= x^{2}(x-y)-9(x-y)$$
+$$=(x-y)(x^{2}-9)$$
+$$= (x-y)(x+3)(x-3)$$
+\qs{}{$$(x+5)^{3}+(x-2)^{3}$$}
+$$=(2x+3)((x+5)^{2}-((x+5)(x-2))+ (x-2)^{2})$$
+$$=(2x+3)(x^{2}+10x+25-x^{2}+2x-5x+10+x^{2}-2x-2x+4)$$
+$$=(2x+3)(x^{2}+10x+35-x^{2}+2x-5x+x^{2}-2x-2x+4)$$
+$$=(2x+3)(x^{2}+10x+35+2x-5x-2x-2x+4)$$
+$$=(2x+3)(x^{2}+3x+35+4)$$
+$$=(2x+3)(x^{2}+3x+39)$$
+\begin{note}    
+    Remember to use FOIL(First, Outside,.Inside Last) to expand brackets
+\end{note}
+\subsection{Simplifying Algebraic Fractions}
+\thm{Simplifying Algebraic Fractions}{When simplifying algebraic fractions it is important to use these two steps: \newline
+1. Factorise the numerator and denominator\newline
+2. After factorising you can cancel any common factors}
+\qs{}{$$\frac{8x^{2} +4x+2}{8x^{3}-1}$$}
+$$= \frac{2(4x^{2}+2x+1)}{(2x-1)((2x)^{2}+ (2x \times 1) + 1^{2})}$$
+$$= \frac{2(4x^{2}+2x+1)}{(2x-1)(4x^{2}+2x+1)}$$
+$$= \frac{2}{2x-1}$$
+\qs{}{$$\frac{(x+h)^{3}-x{3}}{h}$$}
+$$=\frac{(x+h-x)((x+h)^2+x(x+h)+x^{2})}{h}$$
+$$=\frac{h(x^2+2xh+h^{2}+x^{2}+xh+x^{2})}{h}$$
+$$=\frac{h(3x^{2}+3xh+h^{2})}{h}$$
+$$=3x^{2}+3xh+h^{2}$$
+\subsection{Adding \& Subtracting Algebraic Fractions}
+\thm{Adding \& Subtracting Algebraic Fractions}{To Add or Subtract Algebraic fractions there are three important steps you need to follow\newline
+Rule 1: Factorise all fractions on the numerator \& denominator
+Rule 2: Find and create a common denomitor for all fractions(remember to not repeat the same expression more than once)\newline
+Rule 3:Simplifying the fraction using like terms}
+\qs{}{$$\frac{5}{2a+6}+\frac{a}{a^{2}-9}$$}
+$$=\frac{5}{2(a+3)}+\frac{a}{(a+3)(a-3)}$$
+$$=\frac{5(a-3)+2a}{2(a+3)(a-3)}$$
+$$=\frac{5a-15+2a}{2(a+3)(a-3)}$$
+$$=\frac{7a-15}{2(a+3)(a-3)}$$
+\qs{}{$$\frac{6}{3x-2}-\frac{8}{4x+1}$$}
+$$=\frac{6(4x+1)-8(3x-2)}{(4x+1)(3x-2)}$$
+$$=\frac{24x +6 - 24x +16}{(4x+1)(3x-2)}$$
+$$=\frac{22}{(4x+1)(3x-2)}$$
+\subsection{Surds}
+\thm{Rationalising the denominator}{
+    Rationalising the denominator involves multiplying the entire fraction 
+    by the surd, denominator to rationalise it to a whole number
+    \newline
+    If the denominator is a binomial and has both a rational and rational ;portion you will need to use the conjugate,the conjugate is the denominator with opposite signs.
+    \newline
+    if $\frac{1}{3 + \sqrt{2}}$ is the fraction, the conjugate is $3-\sqrt{2}$ as this results in the difference of squares
+
+}
+\qs{}{$$\frac{2\sqrt{6}}{5\sqrt{2}}$$}
+$$\frac{2\sqrt{6}}{5\sqrt{2}} \times \frac{\sqrt{2}}{\sqrt{2}}$$
+$$\frac{2\sqrt{12}}{10}$$
+$$\frac{4\sqrt{3}}{10}$$
+$$\frac{2\sqrt{3}}{5}$$
+\qs{}{$$\frac{1}{3\sqrt{3}+4}$$}
+$$\frac{1}{\sqrt{3+4}} \times \frac{\sqrt{3}-4}{\sqrt{3}-4}$$
+$$\frac{\sqrt{3}-4}{3-16}$$
+$$-\frac{\sqrt{3}-4}{13}$$
+
+\end{document}
