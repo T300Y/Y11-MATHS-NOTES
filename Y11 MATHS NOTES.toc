@@ -6,4 +6,6 @@
 \contentsline {subsection}{\numberline {0.1.5}Simplifying Algebraic Fractions}{4}{subsection.0.1.5}%
 \contentsline {subsection}{\numberline {0.1.6}Adding \& Subtracting Algebraic Fractions}{5}{subsection.0.1.6}%
 \contentsline {subsection}{\numberline {0.1.7}Surds}{5}{subsection.0.1.7}%
+\contentsline {subsection}{\numberline {0.1.8}Completing the square}{6}{subsection.0.1.8}%
+\contentsline {subsection}{\numberline {0.1.9}Indices}{7}{subsection.0.1.9}%
 \contentsfinish 
