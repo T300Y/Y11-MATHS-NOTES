@@ -8,4 +8,7 @@
 \contentsline {subsection}{\numberline {0.1.7}Surds}{5}{subsection.0.1.7}%
 \contentsline {subsection}{\numberline {0.1.8}Completing the square}{6}{subsection.0.1.8}%
 \contentsline {subsection}{\numberline {0.1.9}Indices}{7}{subsection.0.1.9}%
+\contentsline {section}{\numberline {0.2}Functions}{8}{section.0.2}%
+\contentsline {subsection}{\numberline {0.2.1}Funtions and Relations}{8}{subsection.0.2.1}%
+\contentsline {subsection}{\numberline {0.2.2}Function \& Interval notation}{8}{subsection.0.2.2}%
 \contentsfinish 

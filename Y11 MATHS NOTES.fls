@@ -1593,6 +1593,11 @@ INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplm
 INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\NewPXMI_gnu.tfm
 INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newpx\NewPXMI.tfm
 INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\stxscr.tfm
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\vf\public\newpx\zplsym.vf
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\tfm\public\newtx\ntxsym.tfm
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\vf\public\newtx\ntxsym.vf
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\txsyb.tfm
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\tfm\public\txfonts\txsya.tfm
 INPUT Y11 MATHS NOTES.aux
 INPUT C:\Users\ted love\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
 INPUT C:\Users\ted love\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
@@ -1628,3 +1633,5 @@ INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\type1\public\newpx\p
 INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\type1\public\newpx\pxsys.pfb
 INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txexs.pfb
 INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\type1\public\newtx\txexs.pfb
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\txsya.pfb
+INPUT C:\Users\ted love\AppData\Local\Programs\MiKTeX\fonts\type1\public\txfonts\txsya.pfb
