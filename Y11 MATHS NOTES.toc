@@ -15,4 +15,7 @@
 \contentsline {subsubsection}{Odd and Even functions}{10}{section*.2}%
 \contentsline {subsection}{\numberline {0.2.4}Cubic Polynomials}{11}{subsection.0.2.4}%
 \contentsline {subsection}{\numberline {0.2.5}Hyperbolic Function(Inverse variation)}{12}{subsection.0.2.5}%
+\contentsline {subsection}{\numberline {0.2.6}Linear functions}{13}{subsection.0.2.6}%
+\contentsline {subsubsection}{Intersection of Two Lines}{13}{section*.3}%
+\contentsline {subsubsection}{Solving Simultaneous equations using the k method}{14}{section*.4}%
 \contentsfinish 

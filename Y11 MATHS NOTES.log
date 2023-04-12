@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.28)  12 APR 2023 10:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.28)  12 APR 2023 11:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1385,7 +1385,7 @@ l.349 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[12 <./images//hyperbolafunction1.png>] [13] (Y11 MATHS NOTES.aux)
+[12 <./images//hyperbolafunction1.png>] [13] [14] (Y11 MATHS NOTES.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1398,17 +1398,17 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 38989 strings out of 475385
- 789746 string characters out of 2775454
+ 39016 strings out of 475385
+ 790281 string characters out of 2775454
  1199961 words of memory out of 3000000
- 59594 multiletter control sequences out of 15000+600000
+ 59613 multiletter control sequences out of 15000+600000
  500223 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,12n,120p,740b,1718s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 96i,12n,120p,744b,1718s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ted love\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXMI.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXMI_gnu.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxmiaX.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxsys.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb>
-Output written on "Y11 MATHS NOTES.pdf" (14 pages, 258162 bytes).
+Output written on "Y11 MATHS NOTES.pdf" (15 pages, 267647 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 77 named destinations out of 1000 (max. 500000)
- 327 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 351 PDF objects out of 1000 (max. 8388607)
+ 85 named destinations out of 1000 (max. 500000)
+ 347 words of extra memory for PDF output out of 10000 (max. 10000000)
 
