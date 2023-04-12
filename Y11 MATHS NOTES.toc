@@ -12,4 +12,7 @@
 \contentsline {subsection}{\numberline {0.2.1}Funtions and Relations}{8}{subsection.0.2.1}%
 \contentsline {subsection}{\numberline {0.2.2}Function \& Interval notation}{9}{subsection.0.2.2}%
 \contentsline {subsection}{\numberline {0.2.3}Absolute values}{10}{subsection.0.2.3}%
+\contentsline {subsubsection}{Odd and Even functions}{10}{section*.2}%
+\contentsline {subsection}{\numberline {0.2.4}Cubic Polynomials}{11}{subsection.0.2.4}%
+\contentsline {subsection}{\numberline {0.2.5}Hyperbolic Function(Inverse variation)}{12}{subsection.0.2.5}%
 \contentsfinish 
