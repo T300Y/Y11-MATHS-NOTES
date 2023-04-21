@@ -18,4 +18,11 @@
 \contentsline {subsection}{\numberline {0.2.6}Linear functions}{13}{subsection.0.2.6}%
 \contentsline {subsubsection}{Intersection of Two Lines}{13}{section*.3}%
 \contentsline {subsubsection}{Solving Simultaneous equations using the k method}{14}{section*.4}%
+\contentsline {subsection}{\numberline {0.2.7}Composite functions}{14}{subsection.0.2.7}%
+\contentsline {subsection}{\numberline {0.2.8}Simultaneous equations of the 2nd degree}{15}{subsection.0.2.8}%
+\contentsline {subsection}{\numberline {0.2.9}Non-Linear Simultaneous equations}{16}{subsection.0.2.9}%
+\contentsline {subsection}{\numberline {0.2.10}Quadratic functions}{17}{subsection.0.2.10}%
+\contentsline {subsubsection}{Turning point}{17}{section*.5}%
+\contentsline {subsubsection}{The discriminant }{18}{section*.6}%
+\contentsline {subsubsection}{Finding a quadratic equation}{19}{section*.7}%
 \contentsfinish 

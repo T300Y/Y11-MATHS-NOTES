@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1681262727 "c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex" "Y11 MATHS NOTES.pdf" "Y11 MATHS NOTES" 1681262727
+["pdflatex"] 1682043430 "c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex" "Y11 MATHS NOTES.pdf" "Y11 MATHS NOTES" 1682043430
   "C:/Users/ted love/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1679727514 152545 43cf2d9ef883f0ce6692134fd3c4b8e6 ""
   "C:/Users/ted love/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk" 1666946394 11548 df57250b3c470f7b4e578c2d0ac9b820 ""
   "C:/Users/ted love/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1666946209 10789463 c119124f45609d1fb385cba1279acc58 ""
@@ -278,12 +278,13 @@
   "C:/Users/ted love/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/ted love/AppData/Local/Programs/MiKTeX/tex/latex/xifthen/xifthen.sty" 1448270836 5689 1bfa68243e89a54479e7d0580773c57e ""
   "C:/Users/ted love/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "Y11 MATHS NOTES.aux" 1681262727 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "Y11 MATHS NOTES.tex" 1681262727 16376 cff2224ccfb054b1be3a1bbc66af14fd ""
+  "Y11 MATHS NOTES.aux" 1682043430 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "Y11 MATHS NOTES.tex" 1682043423 24210 18fed67bb4365f4fbce83ccb01f91c84 ""
   "Y11 MATHS NOTES.toc" 0 -1 0 "pdflatex"
-  "c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex" 1681262721 16379 c61d941d55004d5dc216874be3d4ecea ""
+  "c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex" 1682043423 24210 18fed67bb4365f4fbce83ccb01f91c84 ""
   "images//hyperbolafunction1.png" 1678090488 13086 d7979b58eb80ff4d763ae1021e06bb5a ""
   "images//hyperbolicfunction1.png" 1678082838 2405 6a6bbe7155eac8dd77eae08fc5d64ac2 ""
+  "images//roots.png" 1682040020 7021 1c58e34ad459a4d8fbad5b945397b791 ""
   "letterfonts.tex" 1666853501 8702 300377c5f733ebe6aa4b7f8e56db5921 ""
   "macros.tex" 1666853501 3389 93000260d2aea292d29c76d4ace77a29 ""
   "preamble.tex" 1668677944 20147 57037ecebdb3177ef112112abd70c183 ""

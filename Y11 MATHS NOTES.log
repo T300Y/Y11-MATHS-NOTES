@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.28)  12 APR 2023 11:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.28)  21 APR 2023 12:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1305,13 +1305,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 256--256
 
 [9]
 
-c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:292: LaTeX Error: There's no line here to end.
+c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:296: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.292 }
+l.296 }
        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1321,55 +1321,55 @@ or  <return>  to continue without it.
 <images//hyperbolicfunction1.png, id=162, 752.8125pt x 348.30125pt>
 File: images//hyperbolicfunction1.png Graphic file (type png)
 <use images//hyperbolicfunction1.png>
-Package pdftex.def Info: images//hyperbolicfunction1.png  used on input line 319.
+Package pdftex.def Info: images//hyperbolicfunction1.png  used on input line 323.
 (pdftex.def)             Requested size: 188.20265pt x 87.07509pt.
  [11 <./images//hyperbolicfunction1.png>]
 <images//hyperbolafunction1.png, id=177, 286.06876pt x 265.99374pt>
 File: images//hyperbolafunction1.png Graphic file (type png)
 <use images//hyperbolafunction1.png>
-Package pdftex.def Info: images//hyperbolafunction1.png  used on input line 347.
+Package pdftex.def Info: images//hyperbolafunction1.png  used on input line 352.
 (pdftex.def)             Requested size: 143.03403pt x 132.99654pt.
 
 
-c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:349: LaTeX Error: Command \end{center} invalid in math mode.
+c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:355: LaTeX Error: Command \end{center} invalid in math mode.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.349 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
+l.355 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:349: LaTeX Error: Something's wrong--perhaps a missing \item.
+c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:355: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.349 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
+l.355 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:349: LaTeX Error: Something's wrong--perhaps a missing \item.
+c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:355: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.349 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
+l.355 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
                                                   
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:349: Missing $ inserted.
+c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:355: Missing $ inserted.
 <inserted text> 
                 $
-l.349 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
+l.355 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
                                                   
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -1377,15 +1377,35 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:349: Missing $ inserted.
+c:/Users/ted love/Desktop/NOTES LATEX/Y11 MATHS NOTES/Y11 MATHS NOTES.tex:355: Missing $ inserted.
 <inserted text> 
                 $
-l.349 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
+l.355 ...ion $f(x) = \frac{3}{x-3} \end{center}$ }
                                                   
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
-[12 <./images//hyperbolafunction1.png>] [13] [14] (Y11 MATHS NOTES.aux)
+[12 <./images//hyperbolafunction1.png>] [13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 489--491
+
+ []
+
+[15] [16]
+Underfull \hbox (badness 10000) in paragraph at lines 524--524
+
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 570--570
+
+ []
+
+<images//roots.png, id=237, 322.20375pt x 157.58875pt>
+File: images//roots.png Graphic file (type png)
+<use images//roots.png>
+Package pdftex.def Info: images//roots.png  used on input line 570.
+(pdftex.def)             Requested size: 161.10147pt x 78.79417pt.
+[18 <./images//roots.png>] [19] [20] (Y11 MATHS NOTES.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.5pt have occurred.
@@ -1398,17 +1418,17 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 39016 strings out of 475385
- 790281 string characters out of 2775454
- 1199961 words of memory out of 3000000
- 59613 multiletter control sequences out of 15000+600000
+ 39125 strings out of 475385
+ 792370 string characters out of 2775454
+ 1200961 words of memory out of 3000000
+ 59687 multiletter control sequences out of 15000+600000
  500223 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 96i,12n,120p,744b,1718s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 96i,12n,120p,740b,1718s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ted love\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXMI.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/NewPXMI_gnu.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxmiaX.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newpx/pxsys.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/newtx/txexs.pfb><C:/Users/ted love/AppData/Local/Programs/MiKTeX/fonts/type1/public/txfonts/txsya.pfb>
-Output written on "Y11 MATHS NOTES.pdf" (15 pages, 267647 bytes).
+Output written on "Y11 MATHS NOTES.pdf" (21 pages, 307548 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
- 85 named destinations out of 1000 (max. 500000)
- 347 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 428 PDF objects out of 1000 (max. 8388607)
+ 119 named destinations out of 1000 (max. 500000)
+ 396 words of extra memory for PDF output out of 10000 (max. 10000000)
 
