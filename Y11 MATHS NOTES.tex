@@ -285,7 +285,7 @@ $$m=5$$
     \newline
     A function/relation  is called odd if the point of symmetry in the origin, this means that if rotated $180\deg$ trhe graph remains unchanged
     \newline
-    To determine whether a function is off $f(x)= -f(x)$
+    To determine whether a function is odd $f(-x)= -f(x)$
     \newline
     If a function is neither odd nor even  you just use "neither"
 
@@ -417,5 +417,199 @@ $$5x+6y-8 =0$$
     Two straight lines have three possible variations with them intersecting at the same point, being parallel or coinciding(infinite solutions)
 \end{note}
 \subsubsection{Solving Simultaneous equations using the k method}
-\thm{K method}{}
-    \end{document}
+\thm{K method}{
+    The k method works for when you need to find the equation of a line that passes through a point aswell as the intersection point of two lines. The formula is $y + k(x) = 0$
+    Where $y$ is the first equation and  $x$ is the second equation, It is worth noting that each equations has to equal zero before using the k method. You then subsitute the point values in the equation and solve for k.
+    Once you solve for k you subsitute into the first form of the k equation and simplify.
+}
+\qs{}{\begin{center} Two equations $4x+2y+2=0$ and $3x+5y-9=0$ intersect at $(4,-2)$ Find the equation using the k method   \end{center}}
+    $$4x+2y+2+k(3x+5y-9)=0$$
+    $$16-4+2+k(12-10-9)=0$$
+    $$14-7k=0$$
+    $$7k=14$$
+    $$k=2$$
+    $$4x+2y+2+2(3x+5y-9)=0$$
+    $$4x+2y+2+6x+10y-18=0$$
+    $$10x+12y-16=0$$
+    $$5x+6y-8=0$$
+\subsection{Composite functions}
+\thm{Composite functions}{
+    Composite functions are functons when the output of one is used as the input for another eg. $g(f(x))$. In other words you combine two functions to create a third function with a different output.
+}
+
+\qs{}{$$f(x) = 3x \ g(x)= x+4 find \ g(f(x))$$}
+$$g(f(x))= 3x+4$$
+
+\qs{}{$$f(x)= \frac{x}{3} \ g(x) = \frac{3}{x} \ find \ g(f(x))$$}
+$$g(f(x))= x$$
+
+\subsection{Simultaneous equations of the 2nd degree}
+\thm{quadratic simultaneous equations}{
+    When dealing with second degreee simultaneous equations  generally you will have two sets of coordinates. \newline
+    To solve we first either use the subsitute or elimination method, we then factor and solve as usual.
+    \newline
+        The reason why we solve these is to find where these two equations intersect eachother.
+}
+\qs{}{\begin{center}Solve simultaneously $y=x-1$ $y=x^{2}+4x+1$ \end{center}}
+$$y = x-1...1$$
+$$y=x^{2}+4x+1...2$$
+\begin{center}
+    sub 1 in 2
+\end{center}
+$$x-1 = x^{2}+4x+1$$
+$$x^{2}+3x+2=0$$
+$$(x+2)(x+1)$$
+$$x = -2,-1$$
+$$y = -3, -2$$
+$$\therefore POI:(-2,-3), (-1,-2)$$
+\qs{}{\begin{center}Solve simultaneously $y-2x+1=0$ $3y^{2}-y-2x^{2}=0$ \end{center}}
+$$y=2x-1...1$$
+$$3y^{2}-y-2x^{2}=0...2$$
+\begin{center}
+    Sub 1 in 2
+\end{center}
+$$3(2x-1)^{2}-(2x-1)-2x^{2}=0$$
+$$3(4x^{2}-4x+1)-2x+1-2x^{2}=0$$
+$$12x^{2}-12x+3-2x+1-2x^{2}$$
+$$10x^{2}-14x+4=0$$
+$$(10x-4)(10x-10)=0$$
+$$(5x-2)(x-1)=0$$
+$$x= \frac{5}{2},1$$
+$$y=2-1$$
+$$y=1$$
+$$y = 2 \times \frac{2}{5}-1$$
+$$y= -\frac{1}{5}$$
+$$y = 1, -\frac{1}{5}$$
+$$\therefore (\frac{2}{5}, \frac{2}{5}), (1,1)$$
+\newline
+\subsection{Non-Linear Simultaneous equations}
+\thm{Non-Linear Simultaneous equations}{
+    To solve non-linear simultaneous equations, you first want to make a variable the subject of one equation to subsitute or eliminate one variable by another operation. After this is complete you can solve like a normal simultaneous equation
+}
+\qs{}{\begin{center}Solve simultaneously $x^{2}+y^{2}=25$ $x+y=5$ \end{center}}
+$$x = 5-y...1$$
+$$x^{2}-y^{2}=25...2$$
+\begin{center}
+    Sub 1 in 2
+\end{center}
+$$(5-y)^{2}+y^{2}=25$$
+$$25-10y+2y^{2}=25$$
+$$-10y+2y^{2}=0$$
+$$2y(y-5)=0$$
+$$y= 0,5$$
+$$x=5,0$$
+$$\therefore (0,5), (5,0)$$
+
+\qs{}{\begin{center}Solve simultaneously $x+2y=-8$ $xy=8$ \end{center}}
+$$x=-2y-8...1$$
+$$xy=8...2$$
+\begin{center}
+    Sub 1 in 2
+\end{center}
+$$y(-2y-8)=8$$
+$$2y^{2}+8y+8=0$$
+$$(2y+4)^{2}=0$$
+$$(y+2)^{2}=0$$
+$$y=-2$$
+$$x=-4$$
+$$\therefore(-4,-2)$$
+\newpage
+\subsection{Quadratic functions}
+\thm{Quadratic function}{Quadratic functuion are polynomials of the 2nd degree $ax^{2}+bx+c$, these equations form parabolas \newline }
+\subsubsection{Turning point}
+\thm{Turning point}{
+Minimum and maximum values:
+\newline
+The minimum or maximum value of a parabola defines where its turning point will be \newline
+If $a >0$ we use call it the minimum value and if $a<0$ we call it the maximum value
+\newline
+Turning point:
+\newline
+The turning point of a parabola lies on the axis of symmetry, the axis of sym is halfway between the x intercepts.\newline
+To find the axis of symmetry we use $x = \frac{-b}{2a}$
+
+Once we know the value of the axis of symmetry we then subsitute  its value as x. After the equation is solved the answer is our y coordinate.
+\newline
+Here is an equation for the value of the coordinate pair for the turning point $(\frac{-b}{2a}, a(\frac{-b}{2a})^{2}+ b(\frac{-b}{2a})+ c)$
+}
+\qs{}{\begin{center}  Find the turning point of the equation $f(x) = x^2-5x+1$  \end{center}}
+$$x = \frac{5}{2}$$
+$$y = \left(\frac{5}{2}\right)^{2}-5\left(\frac{5}{2}\right)+1$$
+$$y = \frac{25}{4} -\frac{25}{2}+1$$
+$$y = -\frac{25}{4}+1$$
+$$y = -\frac{21}{4}$$
+$$y = -5\frac{1}{4}$$
+$$\therefore minval=(2\frac{1}{2}, -5\frac{1}{4})$$
+\qs{}{\begin{center}  Find the turning point of the equation $f(x) = -3x^{2}+x-5$  \end{center}}
+$$x = \frac{-1}{-6}$$
+$$x=\frac{1}{6}$$
+$$y = -3(\frac{1}{6})^{2}+\frac{1}{6}-5$$
+$$y= -\frac{1}{12}+\frac{2}{12}-5$$
+$$y = -\frac{59}{12}$$
+$$y = -4\frac{11}{12}$$
+$$\therefore max val (\frac{1}{6}, -4\frac{11}{12})$$
+
+\subsubsection{The discriminant }
+\thm{The discriminant}{
+    The discriminant gives information about the roots of a quadratic equation. The discriminant is $\Delta = b^{2}-4ac$
+    \newline
+    If the $\Delta > 0$ then  there are two real roots(two x intercepts), if the discriminant is a square number these roots are rational and if the discriminant is not a square then the roots are irrational.
+    \newline
+    If $\Delta = 0$ there are 2 equal rational roots(one x intercept)
+    \newline
+    If $\Delta < 0$ there are no real roots(no x intercept)
+    \newline\begin{center}
+    \includegraphics[scale=0.5]{roots.png}
+    \end{center}
+}
+
+\qs{}{\begin{center} Find k for which $5x^{2}-2x+k=0$ has real roots and $\Delta \geq 0$\end{center}}
+$$a > 0$$
+$$4-4(5\times k) \geq 0$$
+$$4-20k \geq 0$$
+$$-20k \geq -4$$
+$$k \leq \frac{1}{5}$$
+$$k = \frac{1}{5}$$
+\begin{note}
+    if $a<0$ we would use a $\leq$ symbol instead of $\geq$
+\end{note}
+\qs{}{\begin{center}Show that $f(x) = x^{2}-x-2$ has 2 real roots\end{center}}
+$$\Delta = 1-4(1 \times -2)$$
+$$= 1+8$$
+$$=9$$
+\begin{center}
+    $\therefore \Delta > 0$ and is a perfect square so $x^{2}-x-2$ has two real rational roots
+\end{center}
+\subsubsection{Finding a quadratic equation}
+\thm{Finding a quadratic equation}{
+    To find a quadratic equation we use subsitute the coordinate pairs and solve like a simultaneous equation
+}
+\qs{}{\begin{center} Find the equation that passes $(-1,-3)(0,3),(2,21)$\end{center}}
+$$y = ax^{2}+bx+c=$$
+$$-3 = a-b+c...1$$
+$$3 = c...2$$
+$$21=4a+2b+c...3$$
+
+\begin{center}
+    Sub 2 in 1
+\end{center}
+$$a-b=-6...4$$
+\begin{center}  
+Sub 2 in 3
+\end{center}
+$$4a+2b+3=21...5$$
+\begin{center}
+    From 5
+\end{center}
+$$4a+2b=18$$
+$$2a+b=9...6$$
+\begin{center}
+    Add 6 and 7
+\end{center}
+$$3a=3$$
+$$a = 1$$
+$$1-b=-6$$
+$$b = 7$$
+$$\therefore a = 1, b=7, c =3$$
+
+\end{document}
